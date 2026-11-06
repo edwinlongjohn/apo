@@ -1,0 +1,630 @@
+[
+ {
+  "title": "Corporate and Commercial",
+  "slug": "corporate-commercial",
+  "overview": "We advise businesses on starting, running and growing. Our lawyers help owners and managers put the right structure, contracts and governance in place, and keep the business within the law as it changes. We act for start-ups, family businesses, established companies and foreign investors entering Nigeria.",
+  "whatWeDo": [
+   {
+    "name": "Company formation and structure",
+    "text": "Choosing the right type of company, registering it with the Corporate Affairs Commission, and setting up its shares and ownership."
+   },
+   {
+    "name": "Corporate governance",
+    "text": "Board and shareholder matters, company secretarial support, annual filings and statutory records."
+   },
+   {
+    "name": "Shareholder and partnership agreements",
+    "text": "Setting out who owns what, who decides, and what happens when a partner leaves."
+   },
+   {
+    "name": "Commercial contracts",
+    "text": "Supply, distribution, agency, franchise, services and licensing agreements."
+   },
+   {
+    "name": "Joint ventures and alliances",
+    "text": "Structuring and documenting how two or more parties work together."
+   },
+   {
+    "name": "Foreign investment",
+    "text": "Helping overseas businesses, and Nigerians abroad, set up and operate in Nigeria."
+   }
+  ],
+  "whoFor": "Owners, directors and investors in businesses of every size.",
+  "helpful": [
+   "Your incorporation documents",
+   "any existing agreements",
+   "a short note of what you want to achieve and by when"
+  ]
+ },
+ {
+  "title": "Mergers and Acquisitions",
+  "slug": "mergers-acquisitions",
+  "overview": "We advise buyers, sellers and investors on transactions involving Nigerian businesses. We manage the legal work from the first discussion to completion, and explain each step as it happens.",
+  "whatWeDo": [
+   {
+    "name": "Share and asset purchases",
+    "text": "Advising on the best structure and preparing the transaction documents."
+   },
+   {
+    "name": "Legal due diligence",
+    "text": "Reviewing the business being bought or invested in, and reporting the risks in plain language."
+   },
+   {
+    "name": "Investments and funding rounds",
+    "text": "Acting for investors and for companies raising money, including start-ups."
+   },
+   {
+    "name": "Mergers and reorganisations",
+    "text": "Combining businesses, and restructuring groups of companies."
+   },
+   {
+    "name": "Regulatory approvals",
+    "text": "Identifying and obtaining the approvals a transaction needs from regulators."
+   },
+   {
+    "name": "Completion and afterwards",
+    "text": "Closing the deal and dealing with matters that follow."
+   }
+  ],
+  "whoFor": "Buyers, sellers, investors and the companies they deal with.",
+  "helpful": [
+   "A summary of the proposed deal",
+   "any draft term sheet",
+   "the target's corporate documents",
+   "a list of its licences"
+  ]
+ },
+ {
+  "title": "Banking and Finance",
+  "slug": "banking-finance",
+  "overview": "We advise lenders and borrowers on credit, security and the rules that govern financial services. We explain the terms, the risks and the steps to completion, so that each party knows where it stands.",
+  "whatWeDo": [
+   {
+    "name": "Loans and credit facilities",
+    "text": "Preparing and negotiating loan agreements for banks, companies and individuals."
+   },
+   {
+    "name": "Security and guarantees",
+    "text": "Taking, giving and enforcing security over property, shares and other assets."
+   },
+   {
+    "name": "Project and asset finance",
+    "text": "Financing for infrastructure, equipment, vessels and similar assets."
+   },
+   {
+    "name": "Trade and receivables finance",
+    "text": "Funding based on goods, invoices and trade flows."
+   },
+   {
+    "name": "Cross-border lending",
+    "text": "Transactions with lenders and borrowers in other countries."
+   },
+   {
+    "name": "Financial regulation",
+    "text": "Advising on licences and the rules of the Central Bank of Nigeria and other regulators."
+   }
+  ],
+  "whoFor": "Banks, other lenders, companies and individuals who borrow.",
+  "helpful": [
+   "The offer letter or term sheet",
+   "any existing facility agreements",
+   "details of assets offered as security"
+  ]
+ },
+ {
+  "title": "Capital Markets",
+  "slug": "capital-markets",
+  "overview": "We advise on raising money from investors and on dealing in securities. We help companies, issuers and investors understand the rules and meet them.",
+  "whatWeDo": [
+   {
+    "name": "Equity offerings",
+    "text": "Public offers, private placements and rights issues."
+   },
+   {
+    "name": "Debt securities",
+    "text": "Bonds, notes and commercial paper."
+   },
+   {
+    "name": "Listings and disclosure",
+    "text": "Listing on an exchange and meeting continuing disclosure duties."
+   },
+   {
+    "name": "Funds and investment schemes",
+    "text": "Setting up and advising on collective investment schemes."
+   },
+   {
+    "name": "Regulatory filings",
+    "text": "Applications and filings with the Securities and Exchange Commission and the exchange."
+   },
+   {
+    "name": "Governance for listed companies",
+    "text": "Board duties, reporting and shareholder meetings."
+   }
+  ],
+  "whoFor": "Issuers, investors, fund managers and listed companies.",
+  "helpful": [
+   "Recent financial statements",
+   "the company's corporate documents",
+   "your intended timetable"
+  ]
+ },
+ {
+  "title": "Dispute Resolution",
+  "slug": "dispute-resolution",
+  "overview": "We act for clients in courts, arbitration and mediation. We begin by explaining the options, the likely steps and the costs, so that you can decide whether to go to court or to settle.",
+  "whatWeDo": [
+   {
+    "name": "Civil and commercial litigation",
+    "text": "Representing clients in the courts."
+   },
+   {
+    "name": "Arbitration",
+    "text": "Acting in domestic and international arbitration."
+   },
+   {
+    "name": "Mediation and negotiation",
+    "text": "Reaching a settlement without a trial where that serves the client."
+   },
+   {
+    "name": "Debt recovery",
+    "text": "Demand letters, claims and recovery steps."
+   },
+   {
+    "name": "Enforcing judgments and awards",
+    "text": "Turning a decision into payment or action."
+   },
+   {
+    "name": "Appeals",
+    "text": "Advising on and bringing appeals."
+   }
+  ],
+  "whoFor": "Individuals, families, companies and public bodies in dispute.",
+  "helpful": [
+   "The contract or agreement",
+   "letters and emails",
+   "any court papers you have received, with deadlines marked",
+   "a short timeline of events"
+  ]
+ },
+ {
+  "title": "Employment and Labour",
+  "slug": "employment-labour",
+  "overview": "We advise employers and employees on work and the law. We help employers build fair, lawful workplaces, and help employees understand their rights and options.",
+  "whatWeDo": [
+   {
+    "name": "Contracts, handbooks and policies",
+    "text": "Preparing and reviewing employment documents."
+   },
+   {
+    "name": "Hiring and moving staff",
+    "text": "Recruitment, promotions, secondments and employment of foreign nationals."
+   },
+   {
+    "name": "Termination and redundancy",
+    "text": "Advising on process, notice and payments."
+   },
+   {
+    "name": "Workplace investigations and discipline",
+    "text": "Handling complaints and misconduct fairly."
+   },
+   {
+    "name": "Pensions, benefits and pay",
+    "text": "Advising on entitlements and compliance."
+   },
+   {
+    "name": "Disputes",
+    "text": "Representing parties in claims before the courts and tribunals that hear labour matters."
+   }
+  ],
+  "whoFor": "Employers of every size, and employees and executives.",
+  "helpful": [
+   "The employment contract or appointment letter",
+   "the staff handbook",
+   "any termination letter",
+   "payslips"
+  ]
+ },
+ {
+  "title": "Real Estate and Property",
+  "slug": "real-estate-property",
+  "overview": "We advise on land and buildings for owners, buyers, tenants, landlords, lenders and developers. We check the title carefully before money changes hands, and explain each step of the process.",
+  "whatWeDo": [
+   {
+    "name": "Buying and selling",
+    "text": "Acting for buyers and sellers of homes, land and commercial property."
+   },
+   {
+    "name": "Title investigation",
+    "text": "Checking ownership, records and any claims against the property."
+   },
+   {
+    "name": "Consents and registration",
+    "text": "Governor's consent, registration and perfecting title."
+   },
+   {
+    "name": "Leases and tenancies",
+    "text": "Preparing, negotiating and ending leases for homes and commercial space."
+   },
+   {
+    "name": "Development and construction",
+    "text": "Development agreements, land assembly, planning approvals and building contracts."
+   },
+   {
+    "name": "Property finance",
+    "text": "Loans secured on land and buildings."
+   },
+   {
+    "name": "Landlord and tenant disputes",
+    "text": "Recovering possession, rent and resolving disagreements."
+   }
+  ],
+  "whoFor": "Home buyers, landlords, tenants, developers, investors and lenders.",
+  "helpful": [
+   "Title documents (such as the certificate of occupancy, deed of assignment and survey plan)",
+   "payment receipts",
+   "the lease or sale agreement",
+   "any planning approvals"
+  ]
+ },
+ {
+  "title": "Tax",
+  "slug": "tax",
+  "overview": "We advise companies and individuals on tax in Nigeria and across borders. We help clients plan, comply, and respond when the tax authorities raise a question. We keep clients informed when tax law or practice changes.",
+  "whatWeDo": [
+   {
+    "name": "Tax planning",
+    "text": "Structuring investments, transactions and businesses with tax in mind."
+   },
+   {
+    "name": "Company and personal tax",
+    "text": "Income tax, capital gains, VAT and withholding tax."
+   },
+   {
+    "name": "Transaction tax",
+    "text": "Tax advice on mergers, acquisitions, property and financing."
+   },
+   {
+    "name": "Audits and assessments",
+    "text": "Responding to notices, audits and assessments."
+   },
+   {
+    "name": "Tax disputes",
+    "text": "Objections, appeals and proceedings before the tax tribunals and courts."
+   },
+   {
+    "name": "Cross-border tax",
+    "text": "Double taxation, transfer pricing and tax for Nigerians abroad."
+   },
+   {
+    "name": "Incentives and exemptions",
+    "text": "Applying for and keeping available tax reliefs."
+   }
+  ],
+  "whoFor": "Companies, investors, high-earning individuals and Nigerians with income abroad.",
+  "helpful": [
+   "Any tax notice or assessment",
+   "recent returns",
+   "the agreements or structure chart that the question relates to"
+  ]
+ },
+ {
+  "title": "Intellectual Property",
+  "slug": "intellectual-property",
+  "overview": "We help clients protect and use their names, creations and inventions. We register and enforce rights, and make sure contracts say who owns what.",
+  "whatWeDo": [
+   {
+    "name": "Trade marks",
+    "text": "Searching, registering and renewing names, logos and slogans."
+   },
+   {
+    "name": "Copyright",
+    "text": "Protecting written, musical, artistic and software works."
+   },
+   {
+    "name": "Patents and designs",
+    "text": "Registering inventions and product designs."
+   },
+   {
+    "name": "Licensing and assignments",
+    "text": "Agreements that let others use your rights, or transfer them."
+   },
+   {
+    "name": "Brand protection",
+    "text": "Dealing with copying, counterfeits and misuse, including online."
+   },
+   {
+    "name": "Ownership in contracts",
+    "text": "Making sure employee, contractor and supplier agreements deal with ownership."
+   },
+   {
+    "name": "Domain names",
+    "text": "Registering and disputing names."
+   }
+  ],
+  "whoFor": "Business owners, creators, artists, inventors and technology companies.",
+  "helpful": [
+   "The name, logo or work in question",
+   "the date it was first used or made",
+   "any registrations you already hold",
+   "details of the creator"
+  ]
+ },
+ {
+  "title": "Regulatory and Compliance",
+  "slug": "regulatory-compliance",
+  "overview": "We help clients meet the rules set by regulators, and respond when a regulator asks questions. We work with businesses to build compliance into daily operations.",
+  "whatWeDo": [
+   {
+    "name": "Licences and approvals",
+    "text": "Applying for and renewing licences and permits."
+   },
+   {
+    "name": "Compliance programmes",
+    "text": "Policies, training and internal controls that fit the business."
+   },
+   {
+    "name": "Anti-money laundering",
+    "text": "Meeting customer checks, reporting and record-keeping duties."
+   },
+   {
+    "name": "Consumer protection",
+    "text": "Terms, advertising and product rules."
+   },
+   {
+    "name": "Governance and risk",
+    "text": "Board reporting, risk frameworks and internal audit support."
+   },
+   {
+    "name": "Regulatory enquiries",
+    "text": "Responding to requests, audits and inspections."
+   }
+  ],
+  "whoFor": "Regulated businesses, directors and compliance officers.",
+  "helpful": [
+   "Current licences",
+   "any letter or notice from a regulator",
+   "your present policies"
+  ]
+ },
+ {
+  "title": "Data Protection and Cyber Security",
+  "slug": "data-protection-cyber-security",
+  "overview": "We advise organisations on how they collect, use, share and protect personal data, and on what to do when something goes wrong. We help clients meet the Nigeria Data Protection Act and the directions of the Nigeria Data Protection Commission.",
+  "whatWeDo": [
+   {
+    "name": "Compliance reviews",
+    "text": "Checking how the organisation handles personal data against the law."
+   },
+   {
+    "name": "Notices and policies",
+    "text": "Privacy notices, data protection policies and staff guidance."
+   },
+   {
+    "name": "Contracts",
+    "text": "Data processing and data sharing agreements with suppliers and partners."
+   },
+   {
+    "name": "Filings",
+    "text": "Returns and registrations with the Nigeria Data Protection Commission where required."
+   },
+   {
+    "name": "Data breaches",
+    "text": "Responding to an incident, including notifying the regulator and affected people."
+   },
+   {
+    "name": "Transfers abroad",
+    "text": "Sending data outside Nigeria lawfully."
+   },
+   {
+    "name": "Cyber security",
+    "text": "Contracts, policies and readiness for incidents."
+   }
+  ],
+  "whoFor": "Businesses, schools, hospitals, public bodies and technology companies that hold personal data.",
+  "helpful": [
+   "Your current privacy notice",
+   "a list of the kinds of data you hold and the systems you use",
+   "supplier contracts",
+   "details of any incident"
+  ]
+ },
+ {
+  "title": "Energy, Natural Resources and Infrastructure",
+  "slug": "energy-natural-resources-infrastructure",
+  "overview": "We advise on oil and gas, power, mining and infrastructure projects. We help clients obtain the right licences, structure the project, raise the money and meet the rules that apply.",
+  "whatWeDo": [
+   {
+    "name": "Licences and concessions",
+    "text": "Applications, renewals and compliance for oil, gas, power and mining rights."
+   },
+   {
+    "name": "Project agreements",
+    "text": "Joint operating, supply, offtake and construction agreements."
+   },
+   {
+    "name": "Power and renewable energy",
+    "text": "Generation, transmission, distribution and off-grid projects."
+   },
+   {
+    "name": "Infrastructure and public-private partnerships",
+    "text": "Roads, ports, telecoms and other projects with government."
+   },
+   {
+    "name": "Project finance",
+    "text": "Funding and security for large projects."
+   },
+   {
+    "name": "Nigerian content",
+    "text": "Meeting local content requirements."
+   },
+   {
+    "name": "Environment and communities",
+    "text": "Environmental approvals and host community arrangements."
+   }
+  ],
+  "whoFor": "Operators, investors, contractors, lenders and public bodies.",
+  "helpful": [
+   "Licences or applications",
+   "draft project agreements",
+   "any correspondence with the regulator"
+  ]
+ },
+ {
+  "title": "Restructuring and Insolvency",
+  "slug": "restructuring-insolvency",
+  "overview": "We advise businesses in financial difficulty, and the people and institutions they owe. We explain the options early, because the choices open to a business narrow as time passes.",
+  "whatWeDo": [
+   {
+    "name": "Business rescue and administration",
+    "text": "Plans to keep a business trading."
+   },
+   {
+    "name": "Debt restructuring",
+    "text": "Negotiating new terms with lenders and other creditors."
+   },
+   {
+    "name": "Liquidation and receivership",
+    "text": "Acting for companies, liquidators, receivers and creditors."
+   },
+   {
+    "name": "Creditor rights",
+    "text": "Advising lenders and suppliers on recovering what they are owed."
+   },
+   {
+    "name": "Directors' duties",
+    "text": "Advising directors on their position when a company is in trouble."
+   },
+   {
+    "name": "Cross-border insolvency",
+    "text": "Matters involving assets or creditors in more than one country."
+   },
+   {
+    "name": "Distressed purchases",
+    "text": "Buying a business or assets out of insolvency."
+   }
+  ],
+  "whoFor": "Companies, directors, lenders, suppliers and investors.",
+  "helpful": [
+   "A list of creditors and amounts owed",
+   "recent financial statements",
+   "loan and security documents",
+   "any demand or court notice"
+  ]
+ },
+ {
+  "title": "Investigations and White-Collar Crime",
+  "slug": "investigations-white-collar-crime",
+  "overview": "We advise companies and individuals who face an investigation, or who need to carry one out. We explain rights and options, and handle contact with investigators.",
+  "whatWeDo": [
+   {
+    "name": "Internal investigations",
+    "text": "Looking into suspected fraud, misconduct or breaches for a company."
+   },
+   {
+    "name": "Dealing with investigators",
+    "text": "Acting when a law enforcement body or regulator makes an enquiry."
+   },
+   {
+    "name": "Individuals under investigation",
+    "text": "Advising on rights, interviews and representation."
+   },
+   {
+    "name": "Fraud and corruption",
+    "text": "Advice on allegations, prevention and response."
+   },
+   {
+    "name": "Asset tracing and recovery",
+    "text": "Finding and recovering money and property."
+   },
+   {
+    "name": "Anti-bribery compliance",
+    "text": "Policies, training and controls."
+   }
+  ],
+  "whoFor": "Companies, boards, executives and individuals.",
+  "helpful": [
+   "Any invitation, summons or letter received, with its dates",
+   "a short timeline",
+   "relevant documents. If you have received a summons or invitation, contact us promptly so that we can advise before any response is due"
+  ]
+ },
+ {
+  "title": "Antitrust and Competition",
+  "slug": "antitrust-competition",
+  "overview": "We advise businesses on competition and consumer protection law. We help clients obtain approval for transactions, deal fairly with competitors and customers, and respond to the Federal Competition and Consumer Protection Commission.",
+  "whatWeDo": [
+   {
+    "name": "Merger control",
+    "text": "Deciding whether a transaction needs approval, and preparing the filing."
+   },
+   {
+    "name": "Restrictive agreements",
+    "text": "Reviewing arrangements with competitors, distributors and suppliers."
+   },
+   {
+    "name": "Dominant businesses",
+    "text": "Advising on conduct that competition law may restrict."
+   },
+   {
+    "name": "Compliance programmes",
+    "text": "Policies and training for staff."
+   },
+   {
+    "name": "Regulator enquiries",
+    "text": "Responding to requests and investigations."
+   },
+   {
+    "name": "Consumer protection",
+    "text": "Product claims, terms and complaints."
+   }
+  ],
+  "whoFor": "Businesses of every size and the investors who buy them.",
+  "helpful": [
+   "Details of the parties and their turnover",
+   "the proposed agreement or transaction",
+   "any letter from the regulator"
+  ]
+ },
+ {
+  "title": "Private Wealth and Family",
+  "slug": "private-wealth-family",
+  "overview": "We advise individuals and families on protecting and passing on what they have built, and on family matters that need care. We explain each step plainly and treat every matter as private.",
+  "whatWeDo": [
+   {
+    "name": "Wills and estate planning",
+    "text": "Preparing wills and planning how assets pass on."
+   },
+   {
+    "name": "Probate and administration",
+    "text": "Obtaining authority to deal with an estate, and winding it up."
+   },
+   {
+    "name": "Trusts",
+    "text": "Setting up and advising on trusts for families and charitable purposes."
+   },
+   {
+    "name": "Family business succession",
+    "text": "Planning for the next generation."
+   },
+   {
+    "name": "Marriage and divorce",
+    "text": "Advice on separation, divorce and related arrangements."
+   },
+   {
+    "name": "Children",
+    "text": "Custody, maintenance and adoption."
+   },
+   {
+    "name": "Property for Nigerians abroad",
+    "text": "Managing land, buildings and estates in Nigeria from overseas."
+   }
+  ],
+  "whoFor": "Individuals, families, Nigerians abroad and family businesses.",
+  "helpful": [
+   "A list of your assets",
+   "any existing will",
+   "title documents",
+   "marriage certificate and details of children, where relevant"
+  ]
+ }
+]

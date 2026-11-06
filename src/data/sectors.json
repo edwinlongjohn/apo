@@ -1,0 +1,362 @@
+[
+ {
+  "title": "Aviation",
+  "slug": "aviation",
+  "overview": "We advise airlines, operators, lessors, lenders, airports and service businesses. Our lawyers work with the rules of the Nigerian Civil Aviation Authority and the contracts that keep aircraft flying.",
+  "asks": [
+   "Aircraft leasing and finance",
+   "operator licences and approvals",
+   "airport and ground-handling agreements",
+   "insurance and claims",
+   "passenger and cargo disputes"
+  ],
+  "practices": [
+   "Banking and Finance",
+   "Regulatory and Compliance",
+   "Dispute Resolution",
+   "Corporate and Commercial"
+  ]
+ },
+ {
+  "title": "Construction",
+  "slug": "construction",
+  "overview": "We advise employers, contractors, designers and lenders on building and engineering projects. We prepare contracts that set out clearly who does what, when and for how much.",
+  "asks": [
+   "Building and engineering contracts",
+   "subcontracts and supply",
+   "delays and variations",
+   "payment and security",
+   "project disputes and arbitration"
+  ],
+  "practices": [
+   "Real Estate and Property",
+   "Dispute Resolution",
+   "Corporate and Commercial",
+   "Banking and Finance"
+  ]
+ },
+ {
+  "title": "Energy and Utilities",
+  "slug": "energy-utilities",
+  "overview": "We advise power producers, distributors, suppliers and their customers. We help clients work with the licensing and tariff rules of the sector regulator.",
+  "asks": [
+   "Generation, transmission and distribution licences",
+   "power purchase agreements",
+   "tariffs and regulation",
+   "project finance",
+   "disputes with suppliers and customers"
+  ],
+  "practices": [
+   "Energy, Natural Resources and Infrastructure",
+   "Regulatory and Compliance",
+   "Banking and Finance"
+  ]
+ },
+ {
+  "title": "Financial Services and Fintech",
+  "slug": "financial-services-fintech",
+  "overview": "We advise banks, lenders, payment companies, investment firms and start-ups in a closely regulated sector. We help new businesses understand which licences they need before they launch.",
+  "asks": [
+   "Licensing and registration",
+   "payments and lending rules",
+   "customer checks and anti-money laundering",
+   "customer data",
+   "funding rounds and partnerships"
+  ],
+  "practices": [
+   "Banking and Finance",
+   "Regulatory and Compliance",
+   "Data Protection and Cyber Security",
+   "Capital Markets",
+   "Corporate and Commercial"
+  ]
+ },
+ {
+  "title": "Infrastructure and Projects",
+  "slug": "infrastructure-projects",
+  "overview": "We advise governments, sponsors, contractors and lenders on large projects. We help structure the project, allocate risk and keep it within the law.",
+  "asks": [
+   "Public-private partnerships",
+   "concessions",
+   "procurement",
+   "project finance",
+   "contracts and disputes"
+  ],
+  "practices": [
+   "Energy, Natural Resources and Infrastructure",
+   "Banking and Finance",
+   "Regulatory and Compliance",
+   "Dispute Resolution"
+  ]
+ },
+ {
+  "title": "Life Sciences and Healthcare",
+  "slug": "life-sciences-healthcare",
+  "overview": "We advise hospitals, clinics, pharmaceutical businesses, medical device suppliers and health technology companies. We help clients work within the rules of regulators such as NAFDAC.",
+  "asks": [
+   "Product registration and approvals",
+   "supply and distribution contracts",
+   "clinical and research agreements",
+   "patient data",
+   "employment of medical staff"
+  ],
+  "practices": [
+   "Regulatory and Compliance",
+   "Intellectual Property",
+   "Data Protection and Cyber Security",
+   "Employment and Labour"
+  ]
+ },
+ {
+  "title": "Manufacturing and Industrials",
+  "slug": "manufacturing-industrials",
+  "overview": "We advise manufacturers, processors and industrial businesses. We help with the contracts, land, people and rules that a factory depends on.",
+  "asks": [
+   "Supply and distribution contracts",
+   "factory land and leases",
+   "import and export rules",
+   "staff and unions",
+   "tax and incentives"
+  ],
+  "practices": [
+   "Corporate and Commercial",
+   "Tax",
+   "Employment and Labour",
+   "Real Estate and Property"
+  ]
+ },
+ {
+  "title": "Media, Sports and Entertainment",
+  "slug": "media-sports-entertainment",
+  "overview": "We advise creators, producers, broadcasters, athletes, event organisers and the businesses around them. We help protect rights and agree fair terms.",
+  "asks": [
+   "Rights and licensing",
+   "talent, agency and sponsorship contracts",
+   "production and distribution agreements",
+   "brand protection",
+   "disputes"
+  ],
+  "practices": [
+   "Intellectual Property",
+   "Corporate and Commercial",
+   "Dispute Resolution",
+   "Tax"
+  ]
+ },
+ {
+  "title": "Mining and Minerals",
+  "slug": "mining-minerals",
+  "overview": "We advise licence holders, investors, processors and buyers of minerals. We help clients secure and keep their rights, and deal fairly with host communities.",
+  "asks": [
+   "Exploration and mining licences",
+   "joint ventures and offtake agreements",
+   "community agreements",
+   "environmental approvals",
+   "financing"
+  ],
+  "practices": [
+   "Energy, Natural Resources and Infrastructure",
+   "Regulatory and Compliance",
+   "Corporate and Commercial"
+  ]
+ },
+ {
+  "title": "Oil and Gas",
+  "slug": "oil-gas",
+  "overview": "We advise operators, service companies, traders and investors in the upstream, midstream and downstream sectors. We work with the licensing and local content rules of the sector.",
+  "asks": [
+   "Licences and leases",
+   "joint operating agreements",
+   "Nigerian content",
+   "supply and service contracts",
+   "disputes and tax"
+  ],
+  "practices": [
+   "Energy, Natural Resources and Infrastructure",
+   "Tax",
+   "Dispute Resolution",
+   "Regulatory and Compliance"
+  ]
+ },
+ {
+  "title": "Private Equity and Venture Capital",
+  "slug": "private-equity-venture-capital",
+  "overview": "We advise investors, fund managers, founders and the companies they back. We help at every stage, from the first investment to the exit.",
+  "asks": [
+   "Term sheets and investment agreements",
+   "fund structures",
+   "due diligence",
+   "shareholder rights and exits",
+   "regulatory filings"
+  ],
+  "practices": [
+   "Mergers and Acquisitions",
+   "Corporate and Commercial",
+   "Capital Markets",
+   "Tax"
+  ]
+ },
+ {
+  "title": "Real Estate and Data Centres",
+  "slug": "real-estate-data-centres",
+  "overview": "We advise developers, investors, landlords, tenants, lenders and operators of data centres. We help with land title, planning, leases and the power and connection needs of data centres.",
+  "asks": [
+   "Land title and consents",
+   "development and construction",
+   "leases",
+   "property finance",
+   "data centre sites, power and customer contracts"
+  ],
+  "practices": [
+   "Real Estate and Property",
+   "Banking and Finance",
+   "Data Protection and Cyber Security",
+   "Energy, Natural Resources and Infrastructure"
+  ]
+ },
+ {
+  "title": "Renewable Energy",
+  "slug": "renewable-energy",
+  "overview": "We advise developers, investors, lenders and users of solar, wind, hydro and other clean energy. We help projects get licensed, funded and contracted.",
+  "asks": [
+   "Licences and permits",
+   "power purchase agreements",
+   "land and community rights",
+   "project finance",
+   "carbon credit and incentive arrangements"
+  ],
+  "practices": [
+   "Energy, Natural Resources and Infrastructure",
+   "Banking and Finance",
+   "Regulatory and Compliance",
+   "Tax"
+  ]
+ },
+ {
+  "title": "Retail, E-commerce and Consumer Goods",
+  "slug": "retail-ecommerce-consumer-goods",
+  "overview": "We advise retailers, online sellers, brands and distributors. We help with trading terms, customer rules and brand protection.",
+  "asks": [
+   "Online terms and refunds",
+   "consumer protection",
+   "supplier and distribution contracts",
+   "shop leases",
+   "trade marks and customer data"
+  ],
+  "practices": [
+   "Corporate and Commercial",
+   "Intellectual Property",
+   "Data Protection and Cyber Security",
+   "Antitrust and Competition"
+  ]
+ },
+ {
+  "title": "Shipping and Maritime",
+  "slug": "shipping-maritime",
+  "overview": "We advise ship owners, charterers, cargo owners, ports and financiers. We work with the rules of the Nigerian Maritime Administration and Safety Agency and with international shipping contracts.",
+  "asks": [
+   "Vessel finance and registration",
+   "charterparties",
+   "cargo claims",
+   "port and terminal agreements",
+   "arrest of vessels and disputes"
+  ],
+  "practices": [
+   "Dispute Resolution",
+   "Banking and Finance",
+   "Regulatory and Compliance",
+   "Energy, Natural Resources and Infrastructure"
+  ]
+ },
+ {
+  "title": "Technology, AI and Digital Assets",
+  "slug": "technology-ai-digital-assets",
+  "overview": "We advise technology companies, start-ups, platforms and investors, including businesses that build or use artificial intelligence and digital assets. We help clients stay on the right side of the rules as they change.",
+  "asks": [
+   "Software and cloud contracts",
+   "ownership of code and data",
+   "platform terms",
+   "digital asset rules and tax",
+   "use of artificial intelligence"
+  ],
+  "practices": [
+   "Data Protection and Cyber Security",
+   "Intellectual Property",
+   "Regulatory and Compliance",
+   "Corporate and Commercial",
+   "Tax"
+  ]
+ },
+ {
+  "title": "Telecommunications",
+  "slug": "telecommunications",
+  "overview": "We advise network operators, tower and infrastructure companies, service providers and investors. We work with the rules of the Nigerian Communications Commission.",
+  "asks": [
+   "Licences and spectrum",
+   "interconnection and infrastructure sharing",
+   "customer rules",
+   "financing",
+   "disputes"
+  ],
+  "practices": [
+   "Regulatory and Compliance",
+   "Corporate and Commercial",
+   "Banking and Finance",
+   "Data Protection and Cyber Security"
+  ]
+ },
+ {
+  "title": "Transport and Logistics",
+  "slug": "transport-logistics",
+  "overview": "We advise transport operators, freight and logistics businesses, and the companies that rely on them. We help with contracts, licences and claims.",
+  "asks": [
+   "Haulage and logistics contracts",
+   "vehicle and equipment finance",
+   "licences",
+   "loss and damage claims",
+   "staff"
+  ],
+  "practices": [
+   "Corporate and Commercial",
+   "Banking and Finance",
+   "Dispute Resolution",
+   "Employment and Labour"
+  ]
+ },
+ {
+  "title": "Agriculture and Food",
+  "slug": "agriculture-food",
+  "overview": "We advise farms, processors, traders and food businesses. We help with land, supply and sales contracts, product standards and funding.",
+  "asks": [
+   "Land use and leases",
+   "supply and offtake contracts",
+   "product registration and standards",
+   "export rules",
+   "financing"
+  ],
+  "practices": [
+   "Real Estate and Property",
+   "Corporate and Commercial",
+   "Regulatory and Compliance",
+   "Banking and Finance"
+  ]
+ },
+ {
+  "title": "Education, Public Sector and Non-profit",
+  "slug": "education-public-sector-non-profit",
+  "overview": "We advise schools, universities, public bodies, foundations and charities. We help with governance, funding and the rules that apply to organisations that serve the public.",
+  "asks": [
+   "Registration and governance",
+   "grants and funding agreements",
+   "contracts and procurement",
+   "staff",
+   "data about students, beneficiaries and donors"
+  ],
+  "practices": [
+   "Corporate and Commercial",
+   "Regulatory and Compliance",
+   "Employment and Labour",
+   "Data Protection and Cyber Security. Build note for all sector pages: keep each page under 150 words. Do not name clients or regulators beyond those already shown. The page must still make sense if the lead lawyer or related practice is missing: hide empty blocks"
+  ]
+ }
+]
