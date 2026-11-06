@@ -27,7 +27,7 @@ export function Newsletter({ dark = true }: { dark?: boolean }) {
 
   return (
     <form onSubmit={submit} noValidate className="space-y-3">
-      <div className={cn("flex overflow-hidden rounded-sm border transition-colors focus-within:border-brass", dark ? "border-primary-foreground/20" : "border-input bg-card")}>
+      <div className={cn("flex flex-wrap items-center gap-3")}>
         <label htmlFor="nl-email" className="sr-only">Email address</label>
         <input
           id="nl-email"
@@ -35,9 +35,9 @@ export function Newsletter({ dark = true }: { dark?: boolean }) {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           placeholder="Email address"
-          className={cn("min-w-0 flex-1 bg-transparent px-4 py-3 text-sm outline-none", dark ? "text-primary-foreground placeholder:text-primary-foreground/40" : "placeholder:text-muted-foreground")}
+          className={cn("h-11 min-w-[12rem] flex-1 rounded-sm border bg-transparent px-4 text-sm outline-none transition-colors focus:border-brass", dark ? "border-primary-foreground/20 text-primary-foreground placeholder:text-primary-foreground/40" : "border-input bg-card placeholder:text-muted-foreground")}
         />
-        <Button type="submit" variant="brass" className="h-auto rounded-none px-5">
+        <Button type="submit" variant="brass" className="h-11 shrink-0 rounded-sm px-5">
           Subscribe <ArrowRight />
         </Button>
       </div>
