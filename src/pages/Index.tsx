@@ -13,7 +13,7 @@ import libraryImg from "@/assets/law-library.jpg";
 const audiences = [
   { icon: Home, title: "Individuals and families", text: "Advice on the matters that affect your home, your family and your affairs. Plain language and a named lawyer.", link: "Individual matters", to: "/contact", search: "?topic=individual" },
   { icon: Briefcase, title: "Businesses", text: "Support for companies of every size, across sectors, from setting up to disputes.", link: "Business matters", to: "/services#sectors", search: undefined },
-  { icon: Globe2, title: "Nigerians abroad", text: "A firm at home that works across time zones and with our partners overseas.", link: "Our global network", to: "/about#global-network", search: undefined },
+  { icon: Globe2, title: "Clients across borders", text: "A firm that works across time zones, with partners around the world.", link: "Our global network", to: "/about#global-network", search: undefined },
 ];
 const workIcons = [UserCheck, MessageSquareText, RouteIcon];
 
@@ -22,8 +22,8 @@ export default function Index() {
   return (
     <>
       <Seo
-        title="Law firm in Nigeria"
-        description="A law firm for individuals and businesses in Nigeria and abroad. Advice across every area of law. Speak to a lawyer."
+        title="Akpobire Preh & Ocholi Attorneys | International law firm"
+        description="A law firm for individuals and businesses around the world. Advice across every area of law. Speak to a lawyer."
         canonical="https://apo-law.com/"
       />
 
@@ -38,7 +38,7 @@ export default function Index() {
               <span className="h-px w-12 bg-brass" /> Akpobire Preh & Ocholi Attorneys
             </p>
             <h1 className="display-xl animate-rise text-primary-foreground" style={{ ["--delay" as string]: "150ms" }}>
-              Legal advice for individuals and businesses, <em className="text-brass-gradient not-italic md:italic">in Nigeria and abroad.</em>
+              Legal advice for individuals and businesses <em className="text-brass-gradient not-italic md:italic">around the world.</em>
             </h1>
             <p className="animate-rise mt-8 max-w-xl text-lg text-primary-foreground/75" style={{ ["--delay" as string]: "300ms" }}>
               Akpobire Preh & Ocholi Attorneys acts in every area of law. Tell us what you need and we will tell you who can help.
@@ -150,7 +150,7 @@ export default function Index() {
         <SectionHeading
           eyebrow="Latest insights"
           title="Insights"
-          text="Short explainers and updates on the law in Nigeria."
+          text="Short explainers and updates on the law around the world."
           action={
             <Button asChild variant="outlineNavy" size="lg">
               <Link to="/insights">All insights <ArrowRight /></Link>
@@ -170,7 +170,7 @@ export default function Index() {
       <Section tone="muted">
         <div className="grid gap-12 lg:grid-cols-[1.4fr_1fr]">
           <div>
-            <SectionHeading eyebrow="Our offices" title="Where to find us" text={`We act across ${sectors.length} sectors from our offices in Nigeria.`} />
+            <SectionHeading eyebrow="Our offices" title="Where to find us" text={`We act across ${sectors.length} sectors from our offices.`} />
             <div className="grid gap-5 sm:grid-cols-2">
               {offices.map((o, i) => (
                 <Reveal key={o.city} delay={i * 120}>

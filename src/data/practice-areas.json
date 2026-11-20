@@ -2,7 +2,7 @@
  {
   "title": "Corporate and Commercial",
   "slug": "corporate-commercial",
-  "overview": "We advise businesses on starting, running and growing. Our lawyers help owners and managers put the right structure, contracts and governance in place, and keep the business within the law as it changes. We act for start-ups, family businesses, established companies and foreign investors entering Nigeria.",
+  "overview": "We advise businesses on starting, running and growing. Our lawyers help owners and managers put the right structure, contracts and governance in place, and keep the business within the law as it changes. We act for start-ups, family businesses, established companies and investors entering new markets.",
   "whatWeDo": [
    {
     "name": "Company formation and structure",
@@ -26,7 +26,7 @@
    },
    {
     "name": "Foreign investment",
-    "text": "Helping overseas businesses, and Nigerians abroad, set up and operate in Nigeria."
+    "text": "Helping businesses and individuals set up and operate in a new country."
    }
   ],
   "whoFor": "Owners, directors and investors in businesses of every size.",
@@ -39,7 +39,7 @@
  {
   "title": "Mergers and Acquisitions",
   "slug": "mergers-acquisitions",
-  "overview": "We advise buyers, sellers and investors on transactions involving Nigerian businesses. We manage the legal work from the first discussion to completion, and explain each step as it happens.",
+  "overview": "We advise buyers, sellers and investors on transactions involving businesses in many countries. We manage the legal work from the first discussion to completion, and explain each step as it happens.",
   "whatWeDo": [
    {
     "name": "Share and asset purchases",
@@ -101,7 +101,7 @@
    },
    {
     "name": "Financial regulation",
-    "text": "Advising on licences and the rules of the Central Bank of Nigeria and other regulators."
+    "text": "Advising on licences and the rules of central banks and other regulators."
    }
   ],
   "whoFor": "Banks, other lenders, companies and individuals who borrow.",
@@ -269,7 +269,7 @@
  {
   "title": "Tax",
   "slug": "tax",
-  "overview": "We advise companies and individuals on tax in Nigeria and across borders. We help clients plan, comply, and respond when the tax authorities raise a question. We keep clients informed when tax law or practice changes.",
+  "overview": "We advise companies and individuals on tax in the countries where they operate, and across borders. We help clients plan, comply, and respond when the tax authorities raise a question. We keep clients informed when tax law or practice changes.",
   "whatWeDo": [
    {
     "name": "Tax planning",
@@ -293,14 +293,14 @@
    },
    {
     "name": "Cross-border tax",
-    "text": "Double taxation, transfer pricing and tax for Nigerians abroad."
+    "text": "Double taxation, transfer pricing and tax for clients with income abroad."
    },
    {
     "name": "Incentives and exemptions",
     "text": "Applying for and keeping available tax reliefs."
    }
   ],
-  "whoFor": "Companies, investors, high-earning individuals and Nigerians with income abroad.",
+  "whoFor": "Companies, investors, high-earning individuals and clients with income abroad.",
   "helpful": [
    "Any tax notice or assessment",
    "recent returns",
@@ -389,7 +389,7 @@
  {
   "title": "Data Protection and Cyber Security",
   "slug": "data-protection-cyber-security",
-  "overview": "We advise organisations on how they collect, use, share and protect personal data, and on what to do when something goes wrong. We help clients meet the Nigeria Data Protection Act and the directions of the Nigeria Data Protection Commission.",
+  "overview": "We advise organisations on how they collect, use, share and protect personal data, and on what to do when something goes wrong. We help clients meet applicable data protection law and the directions of the relevant data protection authority.",
   "whatWeDo": [
    {
     "name": "Compliance reviews",
@@ -405,7 +405,7 @@
    },
    {
     "name": "Filings",
-    "text": "Returns and registrations with the Nigeria Data Protection Commission where required."
+    "text": "Returns and registrations with the relevant data protection authority where required."
    },
    {
     "name": "Data breaches",
@@ -413,7 +413,7 @@
    },
    {
     "name": "Transfers abroad",
-    "text": "Sending data outside Nigeria lawfully."
+    "text": "Sending data across borders lawfully."
    },
    {
     "name": "Cyber security",
@@ -454,7 +454,7 @@
     "text": "Funding and security for large projects."
    },
    {
-    "name": "Nigerian content",
+    "name": "Local content",
     "text": "Meeting local content requirements."
    },
    {
@@ -615,11 +615,11 @@
     "text": "Custody, maintenance and adoption."
    },
    {
-    "name": "Property for Nigerians abroad",
-    "text": "Managing land, buildings and estates in Nigeria from overseas."
+    "name": "Property for clients abroad",
+    "text": "Managing land, buildings and estates in another country from overseas."
    }
   ],
-  "whoFor": "Individuals, families, Nigerians abroad and family businesses.",
+  "whoFor": "Individuals, families, clients abroad and family businesses.",
   "helpful": [
    "A list of your assets",
    "any existing will",

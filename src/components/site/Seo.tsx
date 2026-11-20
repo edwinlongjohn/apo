@@ -12,7 +12,7 @@ type SeoProps = {
 
 const SITE_NAME = "Akpobire Preh & Ocholi Attorneys"
 const DEFAULT_DESCRIPTION =
-  "A law firm for individuals and businesses in Nigeria and abroad. Advice across every area of law. Speak to a lawyer."
+  "A law firm for individuals and businesses around the world. Advice across every area of law. Speak to a lawyer."
 
 export function Seo({ title, description = DEFAULT_DESCRIPTION, canonical, image, noindex, children }: SeoProps) {
   const fullTitle = title.includes(SITE_NAME) ? title : `${title} | ${SITE_NAME}`

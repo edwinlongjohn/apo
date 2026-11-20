@@ -30,14 +30,14 @@ export default function About() {
     <>
       <Seo
         title="About the firm"
-        description="Akpobire Preh & Ocholi Attorneys is a law firm for individuals and businesses in Nigeria and abroad. Learn how we work."
+        description="Akpobire Preh & Ocholi Attorneys is a law firm for individuals and businesses around the world. Learn how we work."
         canonical="https://apo-law.com/about"
       />
 
       <PageHero
         eyebrow="About the firm"
         title="About the firm"
-        intro="Akpobire Preh & Ocholi Attorneys is a law firm for individuals and businesses in Nigeria, and for Nigerians who do business abroad. We act in every area of law."
+        intro="Akpobire Preh & Ocholi Attorneys is a law firm for individuals and businesses around the world. We act in every area of law."
       />
 
       <Section>
@@ -46,13 +46,13 @@ export default function About() {
             <SectionHeading eyebrow="Who we are" title="One place to go for legal advice." />
             <Reveal>
               <p className="text-muted-foreground">
-                Akpobire Preh & Ocholi Attorneys is a law firm for individuals and businesses in Nigeria, and for Nigerians who do business abroad. The firm was set up so that clients have one place to go for legal advice. Whatever the matter, you deal with one firm and one named lawyer.
+                Akpobire Preh & Ocholi Attorneys is a law firm for individuals and businesses around the world. The firm was set up so that clients have one place to go for legal advice. Whatever the matter, you deal with one firm and one named lawyer.
               </p>
             </Reveal>
             <Reveal delay={120}>
               <h3 className="mt-10 text-primary">Who we act for</h3>
               <p className="mt-3 text-muted-foreground">
-                We act for individuals, families and businesses of every size across Nigeria. We also act for Nigerians abroad, and for companies and individuals who need advice on Nigerian law.
+                We act for individuals, families and businesses of every size, wherever they are. We also act for clients who live or work abroad, and for companies and individuals who need advice on the law of another country.
               </p>
             </Reveal>
           </div>
@@ -103,10 +103,10 @@ export default function About() {
       <Section id="global-network">
         <div className="grid gap-12 lg:grid-cols-2">
           <div>
-            <SectionHeading eyebrow="Global network" title="Reach us in your own time zone." text="Our partners are Nigerian lawyers based in cities around the world. If you live abroad, or do business with Nigeria, you can reach us in your own time zone." />
+            <SectionHeading eyebrow="Global network" title="Reach us in your own time zone." text="Our partners are lawyers based in cities around the world. If you live abroad, or do business across borders, you can reach us in your own time zone." />
             <Reveal>
               <p className="border-l-2 border-brass bg-secondary p-5 text-sm text-muted-foreground">
-                Each partner advises only on the law they are qualified to practise. Where a matter needs advice on Nigerian law, your partner will refer it to our lawyers in Nigeria.
+                Each partner advises only on the law they are qualified to practise. Where a matter needs advice on the law of another country, your partner will refer it to the appropriate lawyer.
               </p>
             </Reveal>
             <Reveal delay={120} className="mt-8 flex flex-wrap gap-3">

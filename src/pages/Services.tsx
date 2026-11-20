@@ -49,7 +49,7 @@ export default function Services() {
     <>
       <Seo
         title="Services"
-        description="Legal advice in every area of law, from business and property to family and disputes, across every major sector in Nigeria."
+        description="Legal advice in every area of law and for every major sector worldwide. Choose your area and speak to a lawyer."
         canonical="https://apo-law.com/services"
       />
 
@@ -148,7 +148,7 @@ function Detail({ item, onClose }: { item: Item; onClose: () => void }) {
           {practice && (
             <div className="mt-10">
               <h3 className="mb-3 text-primary">Who we act for</h3>
-              <p className="text-muted-foreground">We act for individuals, families and businesses in Nigeria and abroad.</p>
+              <p className="text-muted-foreground">We act for individuals, families and businesses around the world.</p>
               <p className="mt-2 text-muted-foreground">{practice.whoFor}</p>
             </div>
           )}

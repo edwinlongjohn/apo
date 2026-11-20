@@ -11,7 +11,7 @@ const audiences = [
   { I: Scale, t: "Lawyers", d: "Associates and experienced lawyers in any practice area." },
   { I: GraduationCap, t: "Graduates and trainees", d: "Recent law graduates and those completing their professional training." },
   { I: Users, t: "Support teams", d: "Finance, office management, marketing and technology." },
-  { I: Globe2, t: "Nigerian lawyers abroad", d: "Lawyers who would like to work with us or form a partnership." },
+  { I: Globe2, t: "Lawyers abroad", d: "Lawyers who would like to work with us or form a partnership." },
 ];
 const field = "w-full rounded-sm border border-input bg-card px-4 py-3 text-sm outline-none transition-all focus:border-brass";
 

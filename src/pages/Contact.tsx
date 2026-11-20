@@ -11,7 +11,7 @@ import { Seo } from "@/components/site/Seo";
 import { contact, enquiryTopics, faqs, offices } from "@/data/site";
 import { cn } from "@/lib/utils";
 
-const countries = ["Nigeria", "United Kingdom", "United States", "Canada", "Ghana", "South Africa", "United Arab Emirates", "Germany", "Other"];
+const countries = ["United Kingdom", "United States", "Canada", "Ghana", "South Africa", "United Arab Emirates", "Germany", "Other"];
 const sources = ["Search engine", "Recommendation", "Social media", "Event", "Other"];
 const field = "w-full rounded-sm border border-input bg-card px-4 py-3 text-sm outline-none transition-all focus:border-brass focus:shadow-brass";
 
@@ -155,7 +155,7 @@ export default function Contact() {
         <div className={cn("mx-auto max-w-xl text-center")}>
           <Reveal>
             <h2 className="text-primary">Our newsletter</h2>
-            <p className="mb-6 mt-3 text-muted-foreground">A short update on the law in Nigeria, twice a month.</p>
+            <p className="mb-6 mt-3 text-muted-foreground">A short update on the law around the world, twice a month.</p>
             <div className="text-left"><Newsletter dark={false} /></div>
           </Reveal>
         </div>

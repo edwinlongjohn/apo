@@ -2,7 +2,7 @@
  {
   "title": "Aviation",
   "slug": "aviation",
-  "overview": "We advise airlines, operators, lessors, lenders, airports and service businesses. Our lawyers work with the rules of the Nigerian Civil Aviation Authority and the contracts that keep aircraft flying.",
+  "overview": "We advise airlines, operators, lessors, lenders, airports and service businesses. Our lawyers work with the rules of the relevant civil aviation authority and the contracts that keep aircraft flying.",
   "asks": [
    "Aircraft leasing and finance",
    "operator licences and approvals",
@@ -167,7 +167,7 @@
   "asks": [
    "Licences and leases",
    "joint operating agreements",
-   "Nigerian content",
+   "Local content",
    "supply and service contracts",
    "disputes and tax"
   ],
@@ -253,7 +253,7 @@
  {
   "title": "Shipping and Maritime",
   "slug": "shipping-maritime",
-  "overview": "We advise ship owners, charterers, cargo owners, ports and financiers. We work with the rules of the Nigerian Maritime Administration and Safety Agency and with international shipping contracts.",
+  "overview": "We advise ship owners, charterers, cargo owners, ports and financiers. We work with the rules of the relevant maritime authority and with international shipping contracts.",
   "asks": [
    "Vessel finance and registration",
    "charterparties",
@@ -290,7 +290,7 @@
  {
   "title": "Telecommunications",
   "slug": "telecommunications",
-  "overview": "We advise network operators, tower and infrastructure companies, service providers and investors. We work with the rules of the Nigerian Communications Commission.",
+  "overview": "We advise network operators, tower and infrastructure companies, service providers and investors. We work with the rules of the relevant communications regulator.",
   "asks": [
    "Licences and spectrum",
    "interconnection and infrastructure sharing",

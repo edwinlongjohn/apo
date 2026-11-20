@@ -102,7 +102,7 @@ export const people: Person[] = [
     location: "Lagos",
     practices: ["corporate-commercial", "mergers-acquisitions", "banking-finance"],
     bio: "Akpobire is a partner at Akpobire Preh & Ocholi Attorneys. They advise owners, directors and investors on corporate and commercial matters, transactions and finance.",
-    admission: "Called to the Nigerian Bar in [year]. [Degree], [institution].",
+    admission: "Called to the Bar in [year]. [Degree], [institution].",
     languages: "English",
   },
   {
@@ -112,7 +112,7 @@ export const people: Person[] = [
     location: "Abuja",
     practices: ["dispute-resolution", "employment-labour", "regulatory-compliance"],
     bio: "Preh is a partner at Akpobire Preh & Ocholi Attorneys. They advise individuals, companies and public bodies on disputes, employment and regulatory matters.",
-    admission: "Called to the Nigerian Bar in [year]. [Degree], [institution].",
+    admission: "Called to the Bar in [year]. [Degree], [institution].",
     languages: "English",
   },
   {
@@ -122,7 +122,7 @@ export const people: Person[] = [
     location: "Lagos",
     practices: ["real-estate-property", "private-wealth-family", "tax"],
     bio: "Ocholi is a partner at Akpobire Preh & Ocholi Attorneys. They advise individuals, families and businesses on property, estates and tax.",
-    admission: "Called to the Nigerian Bar in [year]. [Degree], [institution].",
+    admission: "Called to the Bar in [year]. [Degree], [institution].",
     languages: "English",
   },
   {
@@ -132,7 +132,7 @@ export const people: Person[] = [
     location: "Lagos",
     practices: ["intellectual-property", "data-protection-cyber-security"],
     bio: "An associate at Akpobire Preh & Ocholi Attorneys, advising businesses on intellectual property and data protection.",
-    admission: "Called to the Nigerian Bar in [year]. [Degree], [institution].",
+    admission: "Called to the Bar in [year]. [Degree], [institution].",
     languages: "English",
   },
   {
@@ -142,7 +142,7 @@ export const people: Person[] = [
     location: "Abuja",
     practices: ["energy-natural-resources-infrastructure", "antitrust-competition"],
     bio: "An associate at Akpobire Preh & Ocholi Attorneys, advising on energy, infrastructure and competition matters.",
-    admission: "Called to the Nigerian Bar in [year]. [Degree], [institution].",
+    admission: "Called to the Bar in [year]. [Degree], [institution].",
     languages: "English",
   },
 ];
@@ -161,8 +161,8 @@ export type Insight = {
 /* Launch article titles from the brief. Bodies are draft copy for the lawyers to write and approve. */
 export const insights: Insight[] = [
   {
-    slug: "steps-to-register-a-company-in-nigeria",
-    title: "The main steps to register a company in Nigeria",
+    slug: "steps-to-register-a-company",
+    title: "The main steps to register a company",
     date: "12 October 2026",
     category: "Legal explainers",
     practice: "corporate-commercial",
@@ -191,8 +191,8 @@ export const insights: Insight[] = [
     ],
   },
   {
-    slug: "what-the-nigeria-data-protection-act-asks-of-businesses",
-    title: "What the Nigeria Data Protection Act asks of businesses",
+    slug: "what-data-protection-law-asks-of-businesses",
+    title: "What data protection law asks of businesses",
     date: "28 September 2026",
     category: "Regulatory updates",
     practice: "data-protection-cyber-security",
@@ -212,7 +212,7 @@ export const faqs = [
   { q: "Is my enquiry treated as confidential?", a: "We use what you send only to respond to your enquiry. Sending an enquiry does not create a lawyer and client relationship. Please do not send confidential or time-sensitive information until we have confirmed that we can act for you." },
   { q: "How much will it cost?", a: "Fees depend on the work. Before we begin, we agree the scope of the work and how fees will be charged, and we confirm this in writing." },
   { q: "Is there a charge for a first conversation?", a: "We will tell you whether there is a charge before the conversation takes place." },
-  { q: "I live outside Nigeria. Can you help?", a: "Yes. We act for Nigerians abroad and for businesses that deal with Nigeria. We work by phone, WhatsApp, email and video call, and our partners abroad can speak to you in your own time zone." },
+  { q: "I live abroad. Can you help?", a: "Yes. We act for clients who live or work abroad and for businesses that operate across borders. We work by phone, WhatsApp, email and video call, and our partners can speak to you in your own time zone." },
   { q: "What should I bring to a first conversation?", a: "It depends on your matter. Each practice area has a short list headed \"Helpful to bring\". If you are unsure, send what you have and we will tell you what else we need." },
   { q: "Who will handle my matter?", a: "Every matter has a named lead lawyer. You will have their contact details and they will keep you informed." },
   { q: "How long will my matter take?", a: "That depends on the matter. Once we understand it, we will give you an estimate of the steps and the time they usually take, and we will tell you if that changes." },

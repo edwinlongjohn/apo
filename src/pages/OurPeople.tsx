@@ -87,7 +87,7 @@ export default function OurPeople() {
           <Reveal>
             <h2 className="text-primary">Join us</h2>
             <p className="mt-4 max-w-2xl text-muted-foreground">
-              We are glad to hear from lawyers and graduates who share our approach. We also welcome enquiries from Nigerian lawyers abroad who would like to work with us.
+              We are glad to hear from lawyers and graduates who share our approach. We also welcome enquiries from lawyers abroad who would like to work with us.
             </p>
           </Reveal>
           <Reveal from="right">

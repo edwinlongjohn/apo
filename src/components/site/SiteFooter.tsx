@@ -12,7 +12,7 @@ export function SiteFooter() {
         <div>
           <img src={logoWhite} alt={FIRM} className="h-10 w-auto" width={1920} height={313} loading="lazy" />
           <p className="mt-6 max-w-xs text-sm text-primary-foreground/60">
-            One firm for every legal need, in Nigeria and wherever Nigerians do business.
+            Legal advice for individuals and businesses around the world.
           </p>
           <div className="mt-6 flex gap-3">
             {[
@@ -54,7 +54,7 @@ export function SiteFooter() {
 
         <div>
           <h3 className="eyebrow mb-5">Our newsletter</h3>
-          <p className="mb-4 text-sm text-primary-foreground/60">A short update on the law in Nigeria, twice a month.</p>
+          <p className="mb-4 text-sm text-primary-foreground/60">A short update on the law around the world, twice a month.</p>
           <Newsletter />
         </div>
       </div>

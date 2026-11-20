@@ -17,11 +17,11 @@ export default function InsightsIndex() {
     <>
       <Seo
         title="Insights"
-        description="Short explainers and updates on the law in Nigeria, from the lawyers at Akpobire Preh & Ocholi Attorneys."
+        description="Short explainers and updates on the law around the world, from the lawyers at Akpobire Preh & Ocholi Attorneys."
         canonical="https://apo-law.com/insights"
       />
 
-      <PageHero eyebrow="Insights" title="Insights" intro="Short explainers and updates on the law in Nigeria. They are written to inform, not to advise on your own matter." />
+      <PageHero eyebrow="Insights" title="Insights" intro="Short explainers and updates on the law around the world. They are written to inform, not to advise on your own matter." />
       <Section>
         <Reveal className="mb-12 flex flex-wrap gap-2">
           {categories.map((c) => (

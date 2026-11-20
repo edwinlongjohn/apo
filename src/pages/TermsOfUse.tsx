@@ -18,7 +18,7 @@ export default function TermsOfUse() {
           { heading: "Our content", text: "The text, design, logo and other material on this website belong to Akpobire Preh & Ocholi Attorneys or its licensors. You may read, print and share pages for personal or internal business use." },
           { heading: "Accuracy", text: "We take care to keep the website accurate and current, but we do not promise that it is complete, accurate or up to date." },
           { heading: "Limits of liability", text: "To the extent the law allows, we are not liable for loss that results from your use of this website or reliance on its content." },
-          { heading: "Governing law", text: "These terms are governed by the laws of the Federal Republic of Nigeria, and the courts of Nigeria have jurisdiction." },
+          { heading: "Governing law", text: "These terms are governed by the law applicable to the firm, and the courts with jurisdiction may hear disputes about them." },
         ]}
       />
     </>

@@ -72,7 +72,7 @@ export default function InsightsSlug() {
           </div>
           <div className="bg-primary p-6 text-primary-foreground">
             <p className="font-display text-xl">Our newsletter</p>
-            <p className="mb-4 mt-2 text-sm text-primary-foreground/70">A short update on the law in Nigeria, twice a month.</p>
+            <p className="mb-4 mt-2 text-sm text-primary-foreground/70">A short update on the law around the world, twice a month.</p>
             <Newsletter />
           </div>
         </aside>
